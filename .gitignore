@@ -41,7 +41,8 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-
+inquirer@6.5.0
+jest@29.7.0
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
