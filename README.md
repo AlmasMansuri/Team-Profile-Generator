@@ -19,15 +19,15 @@ on opening the html file in the browser it shows all the employees data on the d
 
 # Tests:
 
-![TestScreenshot](TeamprofileTest.JPG)
+![Test](TestScreenshot.JPG)
 
 # A sample HTML file submitted
 
-![htmlScreenshot](TeamprofileScreenShot.JPG)
+![html](htmlScreenshot.JPG)
 
 # A walkthrough video demonstrating the functionality of the application.
 
-![Teamprofile](TeamProfile.gif)
+![video](TeamProfile.gif)
 
 # URL of github repository!
 
